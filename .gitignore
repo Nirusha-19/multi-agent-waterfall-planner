@@ -1,0 +1,16 @@
+# secrets
+.env
+*.env
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# generated experiment outputs
+Phase1_Experiment*_Results_*/
+
+# OS
+.DS_Store
